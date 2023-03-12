@@ -1,4 +1,9 @@
+
+
 # GitOauthTest
+
+>This project is just an example of how you can integrate Github's oAuth login mannually. 
+>It is implemented as far as I understood it. By any means it is not a full proof solution. If you can improve it, please fork, modify and send a pull request.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.
 
